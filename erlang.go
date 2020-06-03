@@ -4,7 +4,9 @@
 
 package erlang
 
-import "errors"
+import (
+	"errors"
+)
 
 // e - вероятность отказа
 // y - нагрузка
